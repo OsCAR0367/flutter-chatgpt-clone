@@ -1,12 +1,5 @@
 # Flutter ChatGpt Clone with Clean Architecture
 
-### Show some  <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="30" height="30" />   and star the repo to support the project
-
-<br />
-<img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/ph_-j92Zf2s">ChatGPT Clone + Flutter Web Tutorial - Crash Course for Beginners + Advance</a>
-<br/>
-
 
 ### Preview
 <p float="left">
@@ -50,4 +43,4 @@
     
 ### Created & Maintained By
 
-[@MA](https://github.com/amirk3321) , Youtube : [@eTechViral](https://www.youtube.com/c/eTechViral) , Twitter  : [@MA](https://twitter.com/__muhammad_amir)
+[@MA](https://github.com/OsCAR0367) , Youtube : [@eTechViral](https://www.youtube.com/esotilin)
