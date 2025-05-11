@@ -43,4 +43,4 @@
     
 ### Created & Maintained By
 
-[@MA](https://github.com/OsCAR0367) , Youtube : [@eTechViral](https://www.youtube.com/esotilin)
+[@OsCAR0367](https://github.com/OsCAR0367) , Youtube : [@EsoDevlin](https://www.youtube.com/esotilin)
