@@ -1,5 +1,6 @@
 import 'dart:io';
 
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_chatgpt_clone/core/http_certificate_manager.dart';
@@ -9,6 +10,7 @@ import 'package:flutter_chatgpt_clone/features/chat/presentation/cubit/chat_conv
 import 'injection_container.dart' as di;
 
 void main() async{
+  await dotenv.load(fileName: ".env");
   WidgetsFlutterBinding.ensureInitialized();
   HttpOverrides.global = new MyHttpOverrides();
   await di.init();
